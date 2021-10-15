@@ -1,0 +1,11 @@
+/* .carousel-indicator {
+    position: absolute;
+    bottom: -100px;
+}
+.carousel-inner {
+    position: relative;
+} */
+.side-cards {
+    height: 100px;
+    overflow: hidden;
+}
