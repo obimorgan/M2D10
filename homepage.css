@@ -38,3 +38,9 @@
 .captions-text {
     font-size: 30px;
 }
+.captions-text-cart {
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+    background-color: #9EDB36;
+}
