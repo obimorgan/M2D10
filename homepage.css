@@ -2,6 +2,7 @@ body {
     background: #cecdcd;
 }
 .nav {
+    background: #262A2D;
     opacity: 95%;
 }
 .nav-item {
@@ -9,18 +10,21 @@ body {
 }
 .btn.btn-dropdown {
     font-size: 14px;
-    color: rgb(39, 39, 39);
+    background-color: transparent;
 }
 #hompage-logo {
     height: 30px;
     background-color: rgb(250, 250, 250);
+    border-radius: 2px solid white;
     margin-right: 30px ;
 }
 .nav-icon {
+    margin-top: 70px;
     margin-left: 1rem;
 }
 .highlights {
     font-size: medium;
+    margin-top: 65px;
     padding-top: 5px;
 }
 /* .carousel-item {
@@ -96,10 +100,39 @@ p.galaxy-section a {
     margin-left: 10px;
     letter-spacing: -1px;
     margin-top: 5px;
-    arg
 }
 .vl {
     border-left: 1px solid rgb(136, 136, 136);
     height: 30px;
-    
 }
+.now-on-sale-text {
+    font-weight: 600;
+}
+.now-on-sale-text-span {
+    letter-spacing: -1px;
+}
+.medium-text {
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom:;
+}
+.yellow-large-text1 {
+    font-family: sans-serif;
+    color: #F8E943;
+    font-size: 20px;
+}
+.yellow-large-text2{
+    font-family: sans-serif;
+    color: #F8E943;
+    font-size: 70px;
+}
+.browser-deal-btn {
+    width: 160px;
+    height: 40px;
+    text-align: center;
+    color: white;
+    border: 2px solid white;
+    background-color: rgba(255, 255, 255, 0.288);
+}
+/* <!-- Whats good sectiomn --> */
+
