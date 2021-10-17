@@ -134,5 +134,36 @@ p.galaxy-section a {
     border: 2px solid white;
     background-color: rgba(255, 255, 255, 0.288);
 }
-/* <!-- Whats good sectiomn --> */
+/* <!-- Recommended for you sectiomn --> */
 
+.carousel-control-prev {
+    margin-left: -100px;
+}
+.carousel-control-next {
+    margin-right: -100px
+}
+/* <!-- Discover Games section - Nav--> */
+.side-card {
+    height: 10pxx;
+}
+.side-card-text1 {
+    font-size: 10px;
+}
+.side-card-text2 {
+    font-size: 15px;
+    font: 800;
+}
+
+/* <!-- Discover Games - side bar section  --> */
+.show-more {
+    width: 202px;
+    height: 42px;
+    border: 1px solid rgba(143, 142, 142, 0.89);
+    font-size: 16px;
+    font-weight: 600;
+    color: rgba(63, 61, 61, 0.89);
+
+}
+.chevron-right {
+    margin-left: 2px;
+}
